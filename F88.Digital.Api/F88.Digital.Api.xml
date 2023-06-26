@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>F88.Digital.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:F88.Digital.Api.Controllers.IdentityController.GetTokenAsync(F88.Digital.Application.DTOs.Identity.TokenRequest)">
+            <summary>
+            Generates a JSON Web Token for a valid combination of emailId and password.
+            </summary>
+            <param name="tokenRequest"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
